@@ -1,4 +1,4 @@
-package com.nisum.practice.sampleApp;
+package com.nis.practice.sampleApp;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
