@@ -1,4 +1,4 @@
-package com.nisum.practice;
+package com.nis.practice;
 
 import java.util.stream.Stream;
 

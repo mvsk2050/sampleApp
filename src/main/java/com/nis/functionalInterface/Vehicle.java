@@ -1,4 +1,4 @@
-package com.nisum.functionalInterface;
+package com.nis.functionalInterface;
 
 @FunctionalInterface
 public interface Vehicle {

@@ -1,4 +1,4 @@
-package com.nisum.functionalInterface;
+package com.nis.functionalInterface;
 
 import java.util.Random;
 import java.util.function.Supplier;

@@ -1,4 +1,4 @@
-package com.nisum.functionalInterface;
+package com.nis.functionalInterface;
 public class VehicleTest implements Vehicle {
 	
 	public static void main(String[] args) {

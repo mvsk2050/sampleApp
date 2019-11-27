@@ -1,4 +1,4 @@
-package com.nisum.streams;
+package com.nis.streams;
 
 import java.util.Arrays;
 import java.util.List;

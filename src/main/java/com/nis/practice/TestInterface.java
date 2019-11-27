@@ -1,4 +1,4 @@
-package com.nisum.practice;
+package com.nis.practice;
 
 public interface TestInterface {
 
